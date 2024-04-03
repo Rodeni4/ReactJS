@@ -1,6 +1,6 @@
 # Фреймворк React JS. 
 
-### [Знакомство с React и первые компоненты. Работа с JSX](components_hw1/Message.js)
+### [Знакомство с React и первые компоненты. Работа с JSX](src/components_hw1/Message.js)
 
 Развернуть новый проект с использованием create-react-app.
 Создать компонент Message, отображающий переданный ему props текст.
