@@ -1,0 +1,12 @@
+.comment-container {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.delete-button-container {
+    display: inline-block;
+}
+
+.comment-list {
+    list-style-type: none;
+}
